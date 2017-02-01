@@ -1,4 +1,5 @@
-# Open Data Mini Projects -- datasets available on [DataGouv](data.gouv.fr) and [Open Data Paris](https://opendata.paris.fr/page/home/)
+# Open Data Mini Projects
+All datasets available on [DataGouv](data.gouv.fr) and [Open Data Paris](https://opendata.paris.fr/page/home/)
 
 ## Liste des prénoms
 Préonoms données à la naîssance, entre 2004 et 2016, F/M
